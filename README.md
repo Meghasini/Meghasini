@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and life-sciences 🔬🦠🧬🧪
 - 🌱 I’m currently learning HTML/CSS, JavaScipt
 - 💞️ I’m looking to collaborate on front-end design 🌈
-- 📫 How to reach me - megha.dash@gmail.com
+- 📫 How to reach me 
 - 😄 Pronouns: She/Her 
 - ⚡ Fun fact: I birdwatch 🐦
 
